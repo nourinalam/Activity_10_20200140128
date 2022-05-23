@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Activity 9</string>
+    <string name="tdeletedata">Delete Data</string>
+    <string name="tsimpan">SAVE</string>
+    <string name="tcancel">Cancel</string>
+    <string name="teditdata">Edit Data</string>
+    <string name="tnama">Nama</string>
+    <string name="tnotelp">No Telepon</string>
+    <string name="tcreatedata">Create Data</string>
+    <string name="tview">View</string>
+</resources>
